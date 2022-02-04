@@ -5,7 +5,7 @@ ETL과 관련된 코드를 저장합니다.<br/>
 -Introduction to Data Engineering <br/>
 -Python for Data Science, AI & Development<br/>
 -Python Project for Data Engineering <br/>
-여기까지 (수료완료)<br/>
+ took course so far... <br/>
 -Introduction to Relational Databases (RDBMS)<br/>
 -Databases and SQL for Data Science with Python<br/>
 -Introduction to NoSQL Databases<br/>
