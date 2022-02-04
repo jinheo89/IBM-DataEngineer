@@ -15,4 +15,4 @@ ETL과 관련된 코드를 저장합니다.
 -Getting Started with Data Warehousing and BI Analytics
 -Relational Database Administration (DBA)
 -Data Engineering Capstone Project
-![image](https://user-images.githubusercontent.com/80936457/152529571-6c664ddb-efa3-402a-a4e3-62a986e191fb.png)
+
